@@ -1,0 +1,8 @@
+{
+    "logWebHook": "https:\/\/webhhook",
+    "BanOrKick": "kick",
+    "AntiGodMode": true,
+    "betastuff": true,
+    "antiexecutor": true,
+    "antifreecam": true
+}
