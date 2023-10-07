@@ -2,9 +2,3 @@ Hello, this is an example Configuration webpage for FiveM scripts. Its working w
 
 You need help? 
   discord: fireninja
-
-Are you allowed to sell it? 
-  No!
-
-Are you allowed to use it in your product?
-  I don't care if you use that in your script.
